@@ -453,3 +453,8 @@ color: #ddd
   right: 10px;
   padding: 6px 40px;
 }
+
+.big-box {
+  grid-column: 1 / 3;
+  
+}
